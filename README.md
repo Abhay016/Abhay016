@@ -2,7 +2,7 @@
 <h1 align="center"> 
  <img src="https://readme-typing-svg.herokuapp.com?font=Handjet&weight=400&size=35&duration=4000&pause=1000&color=A0D7F7&center=true&width=435&lines=Hi,+There!👋;I'm+Abhishek+Jaiswal...">
 </h1>
-<img align="right" alt="coding" height=240 width=350 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
+<img align="right" alt="coding" height=220 width=350 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h3 align="left">About me:</h3>
 
 - 🔭 I am currently pursuing B.tech in CSE at ADGITM.
