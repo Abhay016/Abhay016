@@ -7,7 +7,7 @@
 
 - 🔭 I am currently pursuing B.tech in CSE at ADGITM.
   
-- 🌱 I’m currently learning **Data Structure and Algorithm**
+- 🌱 I’m currently learning **Backend Technologies**
 
 - 📫 How to reach me: **jaiswal.abhishek128@gmail.com**
 
