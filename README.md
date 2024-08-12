@@ -33,23 +33,23 @@
 <br/>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,tailwind" />
+    <img src="https://skillicons.dev/icons?i=html,css,js" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,cpp,java,py,mysql" />
+    <img src="https://skillicons.dev/icons?i=c,cpp,py,mysql" />
   </a>
 </p>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,vite,django" />
+    <img src="https://skillicons.dev/icons?i=react,nodejs,expressjs,mongodb,django" />
   </a>
 </p>
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,github,vercel,vscode,postman,tailwind" />
+    <img src="https://skillicons.dev/icons?i=git,github,postman,vscode,tailwind" />
   </a>
 </p>
 
