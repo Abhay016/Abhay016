@@ -6,7 +6,7 @@
 <img align="right" alt="coding" height=220 width=350 src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif">
 <h3 align="left">About me:</h3>
 
-- 🔭 I am a final year CSE student at ADGITM.
+- 🔭 I am recent graduate CSE student.
   
 - 🌱 I am currently seeking opportunities to leverage my strong problem-solving skills to build high-quality, scalable applications.
 
