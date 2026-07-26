@@ -1,23 +1,24 @@
 <h1 align="center">Hi 👋, I'm Abhishek Jaiswal</h1>
 
 <h3 align="center">
-Java Developer @ Deloitte USI | Java Backend Developer | Full Stack Enthusiast
+Java Full Stack Developer | Backend Enthusiast | Problem Solver
 </h3>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=AEM+Developer+at+Deloitte+USI;Java+Backend+Developer;Spring+Boot+Enthusiast;Problem+Solver+%7C+DSA+Learner;Building+Scalable+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Java+Full+Stack+Developer;Spring+Boot+%7C+React+Developer;Backend+Engineering+Enthusiast;Building+Scalable+Web+Applications;Always+Learning+Something+New" />
 </p>
 
 <img align="right" alt="Coding" width="360" src="https://cdn.dribbble.com/users/1019864/screenshots/3079099/codeloop.gif"/>
 
 ## 👨‍💻 About Me
 
-- 💼 Currently working as an **Java Developer at Deloitte USI**
-- 🌱 Learning **Java Backend Development, Spring Boot, Spring Security, Docker, AWS, Redis & Microservices**
-- 🚀 Passionate about building scalable backend systems and REST APIs
-- 💻 Strong interest in **Backend Development** and **Full Stack Engineering**
-- 🧩 Regularly solving **Data Structures & Algorithms** problems
-- 🎯 Goal: Become a high-impact Java Backend Engineer
+- 💼 Software Developer at **Deloitte USI**
+- ☕ Passionate about **Java Full Stack Development**
+- 🚀 Building scalable backend applications using **Java, Spring Boot & REST APIs**
+- 🌱 Currently learning **Docker, AWS, Redis & Microservices**
+- 💻 Experienced with **Java, React, SQL and MongoDB**
+- 🧩 Regularly practicing **Data Structures & Algorithms**
+- 🎯 Aspiring to become a highly skilled **Java Backend & Full Stack Engineer**
 - 📫 Reach me at **jaiswal.abhishek128@gmail.com**
 
 <br clear="right"/>
@@ -59,7 +60,7 @@ Java Developer @ Deloitte USI | Java Backend Developer | Full Stack Enthusiast
 ### Backend
 
 <p>
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express"/>
+<img src="https://skillicons.dev/icons?i=spring"/>
 </p>
 
 ### Frontend
@@ -90,15 +91,18 @@ Java Developer @ Deloitte USI | Java Backend Developer | Full Stack Enthusiast
 
 # 🚀 Current Focus
 
-- ☕ Advanced Java
+- ☕ Java
 - 🌱 Spring Boot
 - 🔐 Spring Security
+- 🔄 REST APIs
 - 🗄️ SQL & Database Design
+- ⚛️ React
 - 🐳 Docker
 - ☁️ AWS
 - ⚡ Redis
+- 🏗️ Microservices
 - 🧩 Data Structures & Algorithms
-- 🏗️ System Design (Learning)
+- 📚 System Design
 
 ---
 
@@ -126,10 +130,10 @@ Java Developer @ Deloitte USI | Java Backend Developer | Full Stack Enthusiast
 
 ---
 
-# 💡 Quote
+# 💡 Favorite Quote
 
 <p align="center">
 
-> *"First, solve the problem. Then, write the code."* — John Johnson
+> *"Programs must be written for people to read, and only incidentally for machines to execute."* — Harold Abelson
 
 </p>
