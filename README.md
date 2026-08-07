@@ -110,12 +110,15 @@ Java Full Stack Developer | Backend Enthusiast | Problem Solver
 
 <p align="center">
 
-<img width="410" src="https://streak-stats.demolab.com?user=abhay016&theme=react&border_radius=10"/>
+<!-- Streak Stats -->
+<img width="410" src="https://github-readme-streak-stats.herokuapp.com/?user=abhay016&theme=react&border_radius=10"/>
 
+<!-- General Stats -->
 <img width="390" src="https://github-readme-stats.vercel.app/api?username=abhay016&show_icons=true&theme=react&count_private=true&border_radius=10"/>
 
 <br>
 
+<!-- Top Languages -->
 <img width="380" src="https://github-readme-stats.vercel.app/api/top-langs/?username=abhay016&layout=compact&theme=react&border_radius=10"/>
 
 </p>
@@ -125,8 +128,9 @@ Java Full Stack Developer | Backend Enthusiast | Problem Solver
 # 📊 Contribution Graph
 
 <p align="center">
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay016&theme=react-dark"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=abhay016&theme=react-dark&area=true&hide_border=true&radius=10&custom_title=Contribution+Graph+%28Last+12+Months%29"/>
 </p>
+
 
 ---
 
